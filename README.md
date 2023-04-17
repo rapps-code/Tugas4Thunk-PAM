@@ -16,7 +16,7 @@ Contoh sederhana yang menerapkan managemen data dengan menggunakan Redux Thunk d
 
 *Langkah - langkah* :
 - Langkah pertama dalam menjalankan aplikasi ini adalah melakukan instalasi seluruh dependensi yang dibutuhkan
-- Selanjutnya, Unduh repository ini dengan menekan tombol `Code` berwarna Hijau diatas atau tekan [Unduh](https://github.com/rapps-code/Tugas4Saga-PAM.git)
+- Selanjutnya, Unduh repository ini dengan menekan tombol `Code` berwarna Hijau diatas atau tekan [Unduh](https://github.com/rapps-code/Tugas4Thunk-PAM.git)
 - Setelah itu, mengekstrak file hasil download repository ini didalam folder lokal yang diinginkan
 - Jika Proses Ekstraksi telah selesai, maka buka Terminal / CMD perangkat PC kalian lalu mengarahkan Current Directory ke folder hasil ekstraski tersebut
 - Kemudian ikut beberapa perintah berikut secara berurutan, `npx install` dan `npx expo start`. Note : Dibutuhkan Koneksi Internet
